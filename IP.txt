@@ -9,10 +9,10 @@ hk3.macj2010.dynv6.net:2087#hongkong
 tw1.macj2010.dynv6.net:443#taiwan
 us1.macj2010.dynv6.net:443#america
 jp1.macj2010.dynv6.net:443#japan
-aliyu.gitgoogle.com：443#天诚每日HKG
+aliyu.gitgoogle.com:443#天诚每日HKG
 aliyu.gitgoogle.com:2053#天诚每日HKG
-aliyu.gitgoogle.com：2083#天诚每日HKG
-aliyu.gitgoogle.com：2087#天诚每日HKG
+aliyu.gitgoogle.com:2083#天诚每日HKG
+aliyu.gitgoogle.com:2087#天诚每日HKG
 aliyu.gitg0ogle.com:2096#天诚每日HKG
 aliyu.gitgoogle.com:8443#天诚每日HKG
 aliyun.classelivre.eu.org:443#天诚每日HKG
