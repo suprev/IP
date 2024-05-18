@@ -26,5 +26,4 @@ bestcf.onecf.eu.org#官方优选域名
 cfip.xxxxxxxx.tk#官方优选域名
 xn--b6gac.eu.org#↗↘↗.eu.org官方优选域名
 cdn-all.xn--b6gac.eu.org#cdn-all.↗↘↗.eu.org官方优选域名
-74.208.136.188:8080#优选美国
 
