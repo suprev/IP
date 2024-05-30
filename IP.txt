@@ -1,4 +1,4 @@
-107.182.131.171:2053#优选美国
+107.182.131.171优选美国
 sg1.macj2010.dynv6.net:443#singapore
 sg2.macj2010.dynv6.net:443#singapore
 sg3.macj2010.dynv6.net:443#singapore
