@@ -22,8 +22,8 @@ aliyun.classelivre.eu.org:2083#天诚每日HKG
 aliyun.classelivre.eu.org:2087#天诚每日HKG
 aliyun.classelivre.eu.org:2096#天诚每日HKG
 aliyun.classelivre.eu.org:8443#天诚每日HKG
-bestcf.onecf.eu.org:443#官方优选域名
-cfip.xxxxxxxx.tk:443#官方优选域名
+bestcf.onecf.eu.org官方优选域名
+cfip.xxxxxxxx.tk官方优选域名
 xn--b6gac.eu.org#↗↘↗.eu.org官方优选域名
 cdn-all.xn--b6gac.eu.org#cdn-all.↗↘↗.eu.org官方优选域名
 
