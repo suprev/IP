@@ -2,4 +2,5 @@
 8.219.201.245#SG
 45.11.93.113#US
 8.219.111.147#SG
+47.74.4.97#JP
 my-telegram-is-herocore.onecf.eu.org#域名
