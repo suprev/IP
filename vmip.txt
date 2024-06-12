@@ -14,3 +14,4 @@
 64.110.103.69#JP
 47.74.4.97#JP
 my-telegram-is-herocore.onecf.eu.org#域名
+visa.com.hk:2053#香港
