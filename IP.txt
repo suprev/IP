@@ -29,3 +29,4 @@ my-telegram-is-herocore.onecf.eu.org#域名
 162.159.129.128:443#官方优选
 172.67.66.124:443#官方优选
 aliyun.2096.us.kg:2096#优选域名
+visa.com.hk:2053@香港
