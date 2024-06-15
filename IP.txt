@@ -34,6 +34,7 @@ visa.com.tw:2053#台湾
 162.159.129.128:443#官方优选
 172.67.66.124:443#官方优选
 aliyun.2096.us.kg:2096#优选域名
+www.iakeys.com#优选域名
 my-telegram-is-herocore.onecf.eu.org#优选域名
 xbojbk.filegear-sg.me#我的域名 
 xojbk.filegear-sg.me#我的域名 
