@@ -28,5 +28,4 @@ Cloudflare.241234.xyz#自强不息
 visa.com.hk:2053#香港VISA
 visa.com.tw:2053#台湾VISA
 www.iakeys.com#优选域名
-cf.j8.com.mp#官方优选
 join-v2rey.pages.dev#伊朗域名
